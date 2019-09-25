@@ -20,5 +20,8 @@
     "gulp-uglify-es": "^1.0.4",
     "htmlmin": "0.0.7",
     "rename": "^1.0.4"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
   }
 }
